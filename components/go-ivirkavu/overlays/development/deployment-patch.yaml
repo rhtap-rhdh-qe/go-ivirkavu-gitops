@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap_qe/go-ivirkavu:d3b306625b44c496e3d8a456f1bd6c06acb552d8@sha256:89032c2bb42bdb37da5fff1b9aa8e5d47c164563b6a110fdc6af8f6f67899b9c
+        - image: quay.io/rhtap_qe/go-ivirkavu:40d3cc9b3fe34fc136cec52679f1a50ebd7f421a@sha256:3e92cbc490ae242a83e868ff821b5f21fed0404b2898d73211011ada2c84ea18
           name: container-image
